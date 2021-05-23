@@ -1,0 +1,345 @@
+# depslib dependency file v1.0
+1446930544 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1446930546 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1446930542 c:\users\julio\documents\programacion\super mario (ale)\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1446930554 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clserror.h
+
+1446930548 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1446930550 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsdot.h
+	"adnConsts.h"
+
+1446930552 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1446930554 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1446930556 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsevent.h
+	"adnConsts.h"
+
+1446930558 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1446930560 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1446930562 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clslog.cpp
+	"clsLog.h"
+
+1446930564 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clslog.h
+	<cstdio>
+
+1446930566 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1446930568 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1446930570 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1446930572 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1446930572 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1446930574 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1446930576 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1446930578 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1446930580 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1446930582 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1446930584 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1446930586 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1446930588 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clstext.cpp
+	"clsText.h"
+
+1446930590 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1446930590 source:c:\users\julio\documents\programacion\super mario (ale)\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1446930592 c:\users\julio\documents\programacion\super mario (ale)\adn-x\clstimer.h
+	"clsEvent.h"
+
+1446930236 source:c:\users\julio\documents\programacion\super mario (ale)\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1447290346 c:\users\julio\documents\programacion\super mario (ale)\include\clsmotor.h
+	<adnConsts.h>
+	<clsError.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsFondo.h>
+	<clsLadrillo.h>
+	<clsPersonaje.h>
+
+1446930334 c:\users\julio\documents\programacion\super mario (ale)\include\clsfondo.h
+	<clsSprite.h>
+
+1446930336 c:\users\julio\documents\programacion\super mario (ale)\include\clsladrillo.h
+	<clsSprite.h>
+
+1447518103 c:\users\julio\documents\programacion\super mario (ale)\include\clspersonaje.h
+	<adnConsts.h>
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsTimer.h>
+	<clsLadrillo.h>
+
+1446930320 source:c:\users\julio\documents\programacion\super mario (ale)\src\clsfondo.cpp
+	"clsFondo.h"
+
+1447293636 source:c:\users\julio\documents\programacion\super mario (ale)\src\clsgravedad.cpp
+	"clsGravedad.h"
+
+1447293614 c:\users\julio\documents\programacion\super mario (ale)\include\clsgravedad.h
+
+1446930324 source:c:\users\julio\documents\programacion\super mario (ale)\src\clsladrillo.cpp
+	"clsLadrillo.h"
+
+1447519427 source:c:\users\julio\documents\programacion\super mario (ale)\src\clsmotor.cpp
+	"clsMotor.h"
+
+1447518784 source:c:\users\julio\documents\programacion\super mario (ale)\src\clspersonaje.cpp
+	"clsPersonaje.h"
+
+1447477642 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsaudio.cpp
+	"clsAudio.h"
+
+1447477646 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsaudio.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1447477640 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\adnconsts.h
+	<SDL/SDL.h>
+	<SDL/SDL_video.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	<SDL.h>
+	<SDL_video.h>
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"SDL_mixer.h"
+
+1447477656 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clserror.h
+
+1447477648 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsdot.cpp
+	"clsDot.h"
+
+1447477650 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsdot.h
+	"adnConsts.h"
+
+1447477652 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clserror.cpp
+	<cstring>
+	<iostream>
+	"clsError.h"
+
+1447477658 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsevent.cpp
+	"clsEvent.h"
+
+1447477660 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsevent.h
+	"adnConsts.h"
+
+1447477664 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsimage.cpp
+	"clsImage.h"
+
+1447477666 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsimage.h
+	"adnConsts.h"
+	"clsError.h"
+
+1447477668 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clslog.cpp
+	"clsLog.h"
+
+1447477670 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clslog.h
+	<cstdio>
+
+1447477672 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsmode.cpp
+	"clsMode.h"
+
+1447477674 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsmode.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1447477676 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsmusic.cpp
+	"clsMusic.h"
+
+1447477678 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsmusic.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1447477680 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsrandom.cpp
+	"clsRandom.h"
+
+1447477682 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsrandom.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1447477686 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsscreen.cpp
+	"clsScreen.h"
+
+1447477688 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clsscreen.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1447477690 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clssoundeffect.cpp
+	"clsSoundEffect.h"
+
+1447477694 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clssoundeffect.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1447477696 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clssprite.cpp
+	"clsSprite.h"
+
+1447477698 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clssprite.h
+	<iostream>
+	<cstring>
+	"adnConsts.h"
+	"clsError.h"
+	"clsDot.h"
+	"clsImage.h"
+	"clsDot.h"
+	"clsScreen.h"
+
+1447477700 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clstext.cpp
+	"clsText.h"
+
+1447477702 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clstext.h
+	<iostream>
+	"adnConsts.h"
+	"clsError.h"
+
+1447477706 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clstimer.cpp
+	"clsTimer.h"
+
+1447477708 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\adn-x\clstimer.h
+	"clsEvent.h"
+
+1447477388 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\main.cpp
+	<iostream>
+	<adnConsts.h>
+	<clsLog.h>
+	<clsError.h>
+	<clsMotor.h>
+
+1447582505 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\include\clsmotor.h
+	<adnConsts.h>
+	<clsError.h>
+	<clsMode.h>
+	<clsScreen.h>
+	<clsEvent.h>
+	<clsFondo.h>
+	<clsLadrillo.h>
+	<clsPersonaje.h>
+	<clsEnemigo.h>
+
+1447477494 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\include\clsfondo.h
+	<clsSprite.h>
+
+1447477496 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\include\clsladrillo.h
+	<clsSprite.h>
+
+1447582856 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\include\clspersonaje.h
+	<adnConsts.h>
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsTimer.h>
+	<clsLadrillo.h>
+
+1447477506 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\src\clsfondo.cpp
+	"clsFondo.h"
+
+1447477508 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\src\clsgravedad.cpp
+	"clsGravedad.h"
+
+1447477496 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\include\clsgravedad.h
+
+1447521766 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\src\clsladrillo.cpp
+	"clsLadrillo.h"
+
+1447584765 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\src\clsmotor.cpp
+	"clsMotor.h"
+
+1447530103 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\src\clspersonaje.cpp
+	"clsPersonaje.h"
+
+1447584145 c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\include\clsenemigo.h
+	<clsPersonaje.h>
+	<adnConsts.h>
+	<clsSprite.h>
+	<clsScreen.h>
+	<clsTimer.h>
+	<clsLadrillo.h>
+
+1447584820 source:c:\documents and settings\usuario\mis documentos\downloads\super_mario-2015-11-14\super mario\src\clsenemigo.cpp
+	"clsEnemigo.h"
+
